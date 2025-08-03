@@ -68,7 +68,7 @@ Goal: Find and invoke hidden function(s) to decrypt a secret flag not accessible
 
 ## Output
 
-> ⚑ Decrypted Flag: `FLAG{placeholder_hidden_function}`
+> ⚑ Decrypted Flag: `Holbert{calling_uncalled_functions_is_now_known!}`
 
 ## Challenges Faced
 

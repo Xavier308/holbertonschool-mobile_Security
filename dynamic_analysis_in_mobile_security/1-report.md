@@ -56,7 +56,7 @@ Frida intercepted the return value and printed the decrypted flag to the console
 
 Output
 
-⚑ Decrypted Flag: FLAG{dummy_placeholder_for_now}
+⚑ Decrypted Flag: Holberton{native_hooking_is_no_different_at_all}
 
 Notes
 
